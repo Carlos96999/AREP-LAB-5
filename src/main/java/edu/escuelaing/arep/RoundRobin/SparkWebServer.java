@@ -22,7 +22,7 @@ public class SparkWebServer {
     	
     	port(getPort());
     	staticFileLocation("/static");
-    	get("/", (req,res) -> {
+    	get("/hello", (req,res) -> {
     		res.redirect("index.html");
     		return null;
     	});
