@@ -66,6 +66,8 @@ Después de configurar el docker en nuestra máquina virtual, configuramos los g
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte16.PNG">  
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte17.PNG">  
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte18.PNG">  
+  
+  Creamos una imagen docker con el puerto donde esta corriendo el servicio de roundrobin que implementamos y con esto ya podemos acceder a la página
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte19.PNG">  
 
 
