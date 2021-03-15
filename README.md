@@ -47,7 +47,27 @@ Encontrara la documentación sobre el programa en la siguiente ubicación
 javaDocs
 ```
 
-<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/documentacion.PNG?raw=true">
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/documentacion.PNG?raw=true">  
+  
+## Presentación  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/vistaInicial.PNG?raw=true">  
+Para la prueba, añadimos un nuevo mensaje con info "Plan llano"  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/vistaInicial.PNG?raw=true">  
+
+Creamos las imágenes por medio del docker  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte9.PNG  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte10.PNG  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte11.PNG  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte12.PNG
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte13.PNG
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte14.PNG
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte15.PNG
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte16.PNG  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte17.PNG  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte18.PNG  
+https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte19.PNG  
+
+
 
 ## Desarrollo
 Este laboratorio fue construido con las siguiente herramientas:
