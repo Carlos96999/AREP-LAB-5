@@ -55,17 +55,17 @@ Para la prueba, añadimos un nuevo mensaje con info "Plan llano"
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/vistaInicial.PNG?raw=true">  
 
 Creamos las imágenes por medio del docker  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte9.PNG  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte10.PNG  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte11.PNG  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte12.PNG
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte13.PNG
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte14.PNG
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte15.PNG
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte16.PNG  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte17.PNG  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte18.PNG  
-https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte19.PNG  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte9.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte10.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte11.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte12.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte13.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte14.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte15.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte16.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte17.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte18.PNG">  
+<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte19.PNG">  
 
 
 
