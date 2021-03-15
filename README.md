@@ -59,7 +59,6 @@ Con estos comandos instalamos docker en la máquina de AWS y la preparamos para 
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte9.PNG">  
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte10.PNG">  
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte12.PNG">  
-<img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte13.PNG">  
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte14.PNG">  
 Después de configurar el docker en nuestra máquina virtual, configuramos los grupos de seguridad de esta para poder tener una conexión externa con esta máquina
 <img src="https://github.com/Carlos96999/AREP-LAB-5/blob/master/img/AWS/implementacionAWSParte15.PNG">  
